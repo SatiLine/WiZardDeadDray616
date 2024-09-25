@@ -101,7 +101,6 @@ public class Main {
                 System.out.println(res4);
                 break;
             case 5:
-                System.out.println("Введите строку: ");
                 boolean res5 = TaskFive("янеженя");
                 System.out.println(res5);
                 break;
